@@ -1,17 +1,11 @@
 =======================================================================
 How to Install and Update Garmin Maps and Software via garmin.com/express/updates
 =======================================================================
-
-.. _install-update-garmin-maps:
-
-How to Install and Update Garmin Maps and Software via garmin.com/express/updates
-==================================================================================
-
 If you're a frequent traveler, hiker, cyclist, or driver, having up-to-date navigation is critical to reaching your destination efficiently and safely. Garmin, a global leader in GPS technology, offers a range of devices for every purpose—from driving and fitness to marine and aviation. To keep your device performing at its best, it’s crucial to **Install and Update Garmin Maps** regularly. And the best way to do that is by using the official Garmin Express application available at  
-`garmin.com/express/updates <https://www.garmin.com/express/updates>`_.
+garmin.com/express/updates.
 
 Whether you’re preparing for a road trip or simply commuting through new routes, using **Install and Update Garmin Maps** through the official Garmin software ensures your device always has the latest maps, routes, and points of interest. In this detailed guide, we’ll walk you through how to download, install, and maintain your Garmin maps and device software using  
-`garmin.com/express/updates <https://www.garmin.com/express/updates>`_.
+garmin.com/express/updates.
 
 Why Install and Update Garmin Maps?
 ------------------------------------
